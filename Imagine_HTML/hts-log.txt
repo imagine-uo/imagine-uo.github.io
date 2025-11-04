@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 04 Nov 2025 07:34:27 at http://imagine-wp.local/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://imagine-wp.local/ -O1 "C:\Users\user\Documents\GitHub\imagine-uo.github.io\Imagine_HTML" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:34:36	Warning: 	Retry after error -4 (No data (connection closed)) at link imagine-wp.local/comments/feed/ (from imagine-wp.local/)
+07:41:06	Warning: 	Retry after error -4 (No data (connection closed)) at link imagine-wp.local/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.32.5 (from imagine-wp.local/)
+07:41:14	Warning: 	Moved Permanently for imagine-wp.local/?p=82
+07:41:14	Warning: 	File has moved from imagine-wp.local/?p=82 to http://imagine-wp.local/imagine-project-description/
+07:41:17	Warning: 	Moved Permanently for imagine-wp.local/?p=86
+07:41:17	Warning: 	File has moved from imagine-wp.local/?p=86 to http://imagine-wp.local/members/
+07:41:18	Warning: 	Moved Permanently for imagine-wp.local/miranda/
+07:41:18	Warning: 	File has moved from imagine-wp.local/miranda/ to http://imagine-wp.local/members/miranda/
+07:41:18	Warning: 	Moved Permanently for imagine-wp.local/montes/
+07:41:18	Warning: 	File has moved from imagine-wp.local/montes/ to http://imagine-wp.local/members/montes/
+07:41:19	Warning: 	Moved Permanently for imagine-wp.local/perez-fernandez/
+07:41:19	Warning: 	File has moved from imagine-wp.local/perez-fernandez/ to http://imagine-wp.local/members/perez-fernandez/
+07:41:20	Warning: 	Moved Permanently for imagine-wp.local/salamanca/
+07:41:20	Warning: 	File has moved from imagine-wp.local/salamanca/ to http://imagine-wp.local/members/salamanca/
+07:41:28	Warning: 	Retry after error -4 (No data (connection closed)) at link imagine-wp.local/?p=101 (from imagine-wp.local/scientific-production/)
+07:41:32	Error: 	"Not Found" (404) at link imagine-wp.local/wp-content/uploads/2025/10/SMPS2024-RPF.pdf (from imagine-wp.local/scientific-production/)
+07:41:33	Error: 	"Not Found" (404) at link imagine-wp.local/wp-content/uploads/2025/10/EUSFLAT2025-RPF.pdf (from imagine-wp.local/scientific-production/)
+07:42:57	Error: 	"Not Found" (404) at link imagine-wp.local/wp-content/uploads/2025/10/NPSEIO2025-RPF.pdf (from imagine-wp.local/scientific-production/)
+07:42:57	Warning: 	Moved Permanently for imagine-wp.local/?p=482
+07:42:57	Warning: 	File has moved from imagine-wp.local/?p=482 to http://imagine-wp.local/funding/
+07:43:04	Error: 	"Not Found" (404) at link imagine-wp.local/OPR/ (from imagine-wp.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.32.5)
+07:43:09	Warning: 	Moved Permanently for imagine-wp.local/?p=699
+07:43:09	Warning: 	File has moved from imagine-wp.local/?p=699 to http://imagine-wp.local/members/nicolas-carrizosa/
+07:43:11	Warning: 	Moved Permanently for imagine-wp.local/?p=701
+07:43:11	Warning: 	File has moved from imagine-wp.local/?p=701 to http://imagine-wp.local/members/marina-iturrate-bobes/
+07:43:12	Warning: 	Moved Permanently for imagine-wp.local/?p=703
+07:43:12	Warning: 	File has moved from imagine-wp.local/?p=703 to http://imagine-wp.local/members/david-nieto-barba/
+07:43:13	Warning: 	Moved Permanently for imagine-wp.local/?p=705
+07:43:13	Warning: 	File has moved from imagine-wp.local/?p=705 to http://imagine-wp.local/members/dario-tagarro/
+07:43:14	Warning: 	Moved Permanently for imagine-wp.local/?p=101
+07:43:14	Warning: 	File has moved from imagine-wp.local/?p=101 to http://imagine-wp.local/scientific-production/
+07:43:16	Warning: 	Moved Permanently for imagine-wp.local/?p=972
+07:43:16	Warning: 	File has moved from imagine-wp.local/?p=972 to http://imagine-wp.local/2025/11/03/bfta-2025-school-report/
+07:43:17	Warning: 	Moved Permanently for imagine-wp.local/?p=166
+07:43:17	Warning: 	File has moved from imagine-wp.local/?p=166 to http://imagine-wp.local/2025/10/31/ipmu-2024-special-session-on-imprecise-probabilities/
+07:43:18	Warning: 	Moved Permanently for imagine-wp.local/?p=864
+07:43:18	Warning: 	File has moved from imagine-wp.local/?p=864 to http://imagine-wp.local/2025/10/23/isipta-2025-report/
+07:43:19	Warning: 	Moved Permanently for imagine-wp.local/?p=759
+07:43:19	Warning: 	File has moved from imagine-wp.local/?p=759 to http://imagine-wp.local/2025/09/30/new-published-paper-at-ijufks/
+07:43:19	Warning: 	Moved Permanently for imagine-wp.local/?p=811
+07:43:19	Warning: 	File has moved from imagine-wp.local/?p=811 to http://imagine-wp.local/2025/08/08/eusflat-2025-report/
+07:45:29	Warning: 	Moved Permanently for imagine-wp.local/?p=394
+07:45:29	Warning: 	File has moved from imagine-wp.local/?p=394 to http://imagine-wp.local/members/miranda/
+07:45:29	Warning: 	Moved Permanently for imagine-wp.local/?p=400
+07:45:29	Warning: 	File has moved from imagine-wp.local/?p=400 to http://imagine-wp.local/members/montes/
+07:45:29	Warning: 	Moved Permanently for imagine-wp.local/?p=406
+07:45:29	Warning: 	File has moved from imagine-wp.local/?p=406 to http://imagine-wp.local/members/perez-fernandez/
+07:45:29	Warning: 	Moved Permanently for imagine-wp.local/?p=408
+07:45:29	Warning: 	File has moved from imagine-wp.local/?p=408 to http://imagine-wp.local/members/salamanca/
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 2 seconds : 193 links scanned, 164 files written (137370894 bytes overall), 85 files updated [15960976 bytes received at 24110 bytes/sec], 1796376 bytes transferred using HTTP compression in 82 files, ratio 20%, 12.8 requests per connection
+(4 errors, 45 warnings, 0 messages)
