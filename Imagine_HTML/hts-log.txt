@@ -1,70 +1,68 @@
-HTTrack3.49-2+htsswf+htsjava launched on Mon, 10 Nov 2025 15:37:41 at http://imagine-wp.local/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://imagine-wp.local/ -O1 "C:\Users\user\Documents\GitHub\imagine-uo.github.io\Imagine_HTML" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 11 Nov 2025 09:18:55 at http://imagine-wp.local/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://imagine-wp.local/ -O1 "C:\Users\nicoc\Desktop\GitHub\imagine-uo.github.io\Imagine_HTML" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-15:44:19	Warning: 	Moved Permanently for imagine-wp.local/?p=82
-15:44:19	Warning: 	File has moved from imagine-wp.local/?p=82 to http://imagine-wp.local/imagine-project-description/
-15:44:21	Warning: 	Moved Permanently for imagine-wp.local/?p=86
-15:44:21	Warning: 	File has moved from imagine-wp.local/?p=86 to http://imagine-wp.local/members/
-15:44:24	Warning: 	Moved Permanently for imagine-wp.local/miranda/
-15:44:24	Warning: 	File has moved from imagine-wp.local/miranda/ to http://imagine-wp.local/members/miranda/
-15:44:26	Warning: 	Unexpected 412/416 error (Precondition Failed) for imagine-wp.local/wp-content/uploads/2024/04/qq2.png, 'C:/Users/user/Documents/GitHub/imagine-uo.github.io/Imagine_HTML/imagine-wp.local/wp-content/uploads/2024/04/qq2.html' could not be found on disk
-15:44:27	Warning: 	Moved Permanently for imagine-wp.local/montes/
-15:44:27	Warning: 	File has moved from imagine-wp.local/montes/ to http://imagine-wp.local/members/montes/
-15:44:30	Warning: 	Unexpected 412/416 error (Precondition Failed) for imagine-wp.local/wp-content/uploads/2024/04/nm2.png, 'C:/Users/user/Documents/GitHub/imagine-uo.github.io/Imagine_HTML/imagine-wp.local/wp-content/uploads/2024/04/nm2.html' could not be found on disk
-15:44:30	Warning: 	Moved Permanently for imagine-wp.local/perez-fernandez/
-15:44:30	Warning: 	File has moved from imagine-wp.local/perez-fernandez/ to http://imagine-wp.local/members/perez-fernandez/
-15:44:32	Warning: 	Moved Permanently for imagine-wp.local/salamanca/
-15:44:32	Warning: 	File has moved from imagine-wp.local/salamanca/ to http://imagine-wp.local/members/salamanca/
-15:44:59	Warning: 	Moved Permanently for imagine-wp.local/?p=101
-15:44:59	Warning: 	File has moved from imagine-wp.local/?p=101 to http://imagine-wp.local/scientific-production/
-15:45:01	Warning: 	Retry after error -4 (No data (connection closed)) at link imagine-wp.local/wp-content/uploads/2025/10/SMPS2024-RPF.pdf (from imagine-wp.local/scientific-production/)
-15:45:03	Error: 	"Not Found" (404) at link imagine-wp.local/wp-content/uploads/2025/10/EUSFLAT2025-RPF.pdf (from imagine-wp.local/scientific-production/)
-15:45:03	Warning: 	Retry after error -4 (Incorrect length (828348 Bytes, 5171855 expected)) at link imagine-wp.local/wp-content/uploads/2025/09/EUSFLAT2025-Marina.pdf (from imagine-wp.local/scientific-production/)
-15:46:55	Error: 	"Not Found" (404) at link imagine-wp.local/wp-content/uploads/2025/10/NPSEIO2025-RPF.pdf (from imagine-wp.local/scientific-production/)
-15:46:55	Warning: 	Retry after error -4 (Incorrect length (871448 Bytes, 4163522 expected)) at link imagine-wp.local/wp-content/uploads/2025/09/ECSQARU2025-Miranda.pdf (from imagine-wp.local/scientific-production/)
-15:46:55	Warning: 	Moved Permanently for imagine-wp.local/?p=482
-15:46:55	Warning: 	File has moved from imagine-wp.local/?p=482 to http://imagine-wp.local/funding/
-15:47:30	Error: 	"Not Found" (404) at link imagine-wp.local/OPR/ (from imagine-wp.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.32.5)
-15:47:34	Warning: 	Retry after error -4 (No data (connection closed)) at link imagine-wp.local/members/perez-fernandez/ (from imagine-wp.local/perez-fernandez/)
-15:47:35	Warning: 	Moved Permanently for imagine-wp.local/?p=699
-15:47:35	Warning: 	File has moved from imagine-wp.local/?p=699 to http://imagine-wp.local/members/nicolas-carrizosa/
-15:47:36	Warning: 	Moved Permanently for imagine-wp.local/?p=701
-15:47:36	Warning: 	File has moved from imagine-wp.local/?p=701 to http://imagine-wp.local/members/marina-iturrate-bobes/
-15:47:37	Warning: 	Unexpected 412/416 error (Precondition Failed) for imagine-wp.local/wp-content/uploads/2025/10/scopus.png, 'C:/Users/user/Documents/GitHub/imagine-uo.github.io/Imagine_HTML/imagine-wp.local/wp-content/uploads/2025/10/scopus.html' could not be found on disk
-15:47:37	Warning: 	Unexpected 412/416 error (Precondition Failed) for imagine-wp.local/wp-content/uploads/2025/10/scholar.png, 'C:/Users/user/Documents/GitHub/imagine-uo.github.io/Imagine_HTML/imagine-wp.local/wp-content/uploads/2025/10/scholar.html' could not be found on disk
-15:47:38	Warning: 	Moved Permanently for imagine-wp.local/?p=703
-15:47:38	Warning: 	File has moved from imagine-wp.local/?p=703 to http://imagine-wp.local/members/david-nieto-barba/
-15:47:38	Warning: 	Moved Permanently for imagine-wp.local/?p=705
-15:47:38	Warning: 	File has moved from imagine-wp.local/?p=705 to http://imagine-wp.local/members/dario-tagarro/
-15:47:39	Error: 	"Not Found" (404) at link imagine-wp.local/wp-content/uploads/2025/10/SMPS2024-RPF.pdf (from imagine-wp.local/scientific-production/)
-15:47:40	Warning: 	Retry after error -4 (Incorrect length (1965103 Bytes, 5171855 expected)) at link imagine-wp.local/wp-content/uploads/2025/09/EUSFLAT2025-Marina.pdf (from imagine-wp.local/scientific-production/)
-15:49:08	Warning: 	Retry after error -4 (Incorrect length (2301719 Bytes, 4163522 expected)) at link imagine-wp.local/wp-content/uploads/2025/09/ECSQARU2025-Miranda.pdf (from imagine-wp.local/scientific-production/)
-15:49:08	Warning: 	Moved Permanently for imagine-wp.local/?p=972
-15:49:08	Warning: 	File has moved from imagine-wp.local/?p=972 to http://imagine-wp.local/2025/11/03/bfta-2025-school-report/
-15:49:09	Warning: 	Moved Permanently for imagine-wp.local/?p=166
-15:49:09	Warning: 	File has moved from imagine-wp.local/?p=166 to http://imagine-wp.local/2025/10/31/ipmu-2024-special-session-on-imprecise-probabilities/
-15:49:09	Warning: 	Retry after error -4 (No data (connection closed)) at link imagine-wp.local/?p=864 (from imagine-wp.local/2025/10/23/isipta-2025-report/)
-15:49:09	Warning: 	Unexpected 412/416 error (Precondition Failed) for imagine-wp.local/wp-content/uploads/2025/10/ISIPTA-2025-Quique-David-y-Marina.jpg, 'C:/Users/user/Documents/GitHub/imagine-uo.github.io/Imagine_HTML/imagine-wp.local/wp-content/uploads/2025/10/ISIPTA-2025-Quique-David-y-Marina.html' could not be found on disk
-15:49:10	Warning: 	Moved Permanently for imagine-wp.local/?p=759
-15:49:10	Warning: 	File has moved from imagine-wp.local/?p=759 to http://imagine-wp.local/2025/09/30/new-published-paper-at-ijufks/
-15:49:10	Warning: 	Moved Permanently for imagine-wp.local/?p=811
-15:49:10	Warning: 	File has moved from imagine-wp.local/?p=811 to http://imagine-wp.local/2025/08/08/eusflat-2025-report/
-15:49:10	Warning: 	Moved Permanently for imagine-wp.local/?p=394
-15:49:10	Warning: 	File has moved from imagine-wp.local/?p=394 to http://imagine-wp.local/members/miranda/
-15:49:10	Warning: 	Moved Permanently for imagine-wp.local/?p=400
-15:49:10	Warning: 	File has moved from imagine-wp.local/?p=400 to http://imagine-wp.local/members/montes/
-15:49:12	Warning: 	Moved Permanently for imagine-wp.local/?p=408
-15:49:12	Warning: 	File has moved from imagine-wp.local/?p=408 to http://imagine-wp.local/members/salamanca/
-15:49:52	Error: 	"Incorrect length (3369572 Bytes, 5171855 expected)" (-4) after 2 retries at link imagine-wp.local/wp-content/uploads/2025/09/EUSFLAT2025-Marina.pdf (from imagine-wp.local/scientific-production/)
-15:50:55	Warning: 	Moved Permanently for imagine-wp.local/?p=864
-15:50:55	Warning: 	File has moved from imagine-wp.local/?p=864 to http://imagine-wp.local/2025/10/23/isipta-2025-report/
-15:50:56	Warning: 	Moved Permanently for imagine-wp.local/?p=406
-15:50:56	Warning: 	File has moved from imagine-wp.local/?p=406 to http://imagine-wp.local/members/perez-fernandez/
+09:18:57	Warning: 	warning: file size on disk (25658) does not have the expected size (25370))
+09:18:58	Warning: 	warning: file size on disk (798) does not have the expected size (777))
+09:19:33	Warning: 	Retry after error -4 (No data (connection closed)) at link imagine-wp.local/wp-json/wp/v2/pages/82 (from imagine-wp.local/imagine-project-description/)
+09:19:33	Warning: 	Moved Permanently for imagine-wp.local/?p=82
+09:19:33	Warning: 	File has moved from imagine-wp.local/?p=82 to http://imagine-wp.local/imagine-project-description/
+09:19:33	Warning: 	Moved Permanently for imagine-wp.local/?p=86
+09:19:33	Warning: 	File has moved from imagine-wp.local/?p=86 to http://imagine-wp.local/members/
+09:19:34	Warning: 	Moved Permanently for imagine-wp.local/miranda/
+09:19:34	Warning: 	File has moved from imagine-wp.local/miranda/ to http://imagine-wp.local/members/miranda/
+09:19:34	Warning: 	Moved Permanently for imagine-wp.local/montes/
+09:19:34	Warning: 	File has moved from imagine-wp.local/montes/ to http://imagine-wp.local/members/montes/
+09:19:35	Warning: 	Moved Permanently for imagine-wp.local/perez-fernandez/
+09:19:35	Warning: 	File has moved from imagine-wp.local/perez-fernandez/ to http://imagine-wp.local/members/perez-fernandez/
+09:19:35	Warning: 	Moved Permanently for imagine-wp.local/salamanca/
+09:19:35	Warning: 	File has moved from imagine-wp.local/salamanca/ to http://imagine-wp.local/members/salamanca/
+09:19:37	Warning: 	Moved Permanently for imagine-wp.local/?p=101
+09:19:37	Warning: 	File has moved from imagine-wp.local/?p=101 to http://imagine-wp.local/scientific-production/
+09:19:38	Warning: 	Retry after error -4 (No data (connection closed)) at link imagine-wp.local/wp-content/uploads/2025/08/WOEA2024.pdf (from imagine-wp.local/scientific-production/)
+09:19:38	Error: 	"Not Found" (404) at link imagine-wp.local/wp-content/uploads/2025/10/SMPS2024-RPF.pdf (from imagine-wp.local/scientific-production/)
+09:19:39	Warning: 	Retry after error -4 (No data (connection closed)) at link imagine-wp.local/wp-content/uploads/2025/08/SMPS2024_Quique.pdf (from imagine-wp.local/scientific-production/)
+09:19:39	Error: 	"Not Found" (404) at link imagine-wp.local/wp-content/uploads/2025/10/EUSFLAT2025-RPF.pdf (from imagine-wp.local/scientific-production/)
+09:19:40	Warning: 	Unexpected 412/416 error (Precondition Failed) for imagine-wp.local/wp-content/uploads/2025/09/EUSFLAT2025-Marina.pdf, 'C:/Users/nicoc/Desktop/GitHub/imagine-uo.github.io/Imagine_HTML/imagine-wp.local/wp-content/uploads/2025/09/EUSFLAT2025-Marina.html' could not be found on disk
+09:19:40	Error: 	"Not Found" (404) at link imagine-wp.local/wp-content/uploads/2025/10/NPSEIO2025-RPF.pdf (from imagine-wp.local/scientific-production/)
+09:19:41	Warning: 	Moved Permanently for imagine-wp.local/?p=482
+09:19:41	Warning: 	File has moved from imagine-wp.local/?p=482 to http://imagine-wp.local/funding/
+09:19:48	Warning: 	Found for imagine-wp.local/wp-admin/
+09:19:48	Warning: 	File has moved from imagine-wp.local/wp-admin/ to http://imagine-wp.local/wp-login.php?redirect_to=http%3A%2F%2Fimagine-wp.local%2Fwp-admin%2F&reauth=1
+09:19:51	Error: 	"Not Found" (404) at link imagine-wp.local/n,window.location.origin (from imagine-wp.local/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.0)
+09:19:51	Error: 	"Not Found" (404) at link imagine-wp.local/OPR/ (from imagine-wp.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.33.0)
+09:19:56	Warning: 	Moved Permanently for imagine-wp.local/?p=699
+09:19:56	Warning: 	File has moved from imagine-wp.local/?p=699 to http://imagine-wp.local/members/nicolas-carrizosa/
+09:19:56	Warning: 	Moved Permanently for imagine-wp.local/?p=701
+09:19:56	Warning: 	File has moved from imagine-wp.local/?p=701 to http://imagine-wp.local/members/marina-iturrate-bobes/
+09:19:57	Warning: 	Moved Permanently for imagine-wp.local/?p=703
+09:19:57	Warning: 	File has moved from imagine-wp.local/?p=703 to http://imagine-wp.local/members/david-nieto-barba/
+09:19:58	Warning: 	Moved Permanently for imagine-wp.local/?p=705
+09:19:58	Warning: 	File has moved from imagine-wp.local/?p=705 to http://imagine-wp.local/members/dario-tagarro/
+09:23:22	Warning: 	Moved Permanently for imagine-wp.local/?p=972
+09:23:22	Warning: 	File has moved from imagine-wp.local/?p=972 to http://imagine-wp.local/2025/11/03/bfta-2025-school-report/
+09:23:22	Warning: 	Moved Permanently for imagine-wp.local/?p=166
+09:23:22	Warning: 	File has moved from imagine-wp.local/?p=166 to http://imagine-wp.local/2025/10/31/ipmu-2024-special-session-on-imprecise-probabilities/
+09:23:23	Warning: 	Moved Permanently for imagine-wp.local/?p=864
+09:23:23	Warning: 	File has moved from imagine-wp.local/?p=864 to http://imagine-wp.local/2025/10/23/isipta-2025-report/
+09:23:23	Warning: 	Moved Permanently for imagine-wp.local/?p=759
+09:23:23	Warning: 	File has moved from imagine-wp.local/?p=759 to http://imagine-wp.local/2025/09/30/new-published-paper-at-ijufks/
+09:23:23	Warning: 	Moved Permanently for imagine-wp.local/?p=811
+09:23:23	Warning: 	File has moved from imagine-wp.local/?p=811 to http://imagine-wp.local/2025/08/08/eusflat-2025-report/
+09:23:26	Warning: 	Moved Permanently for imagine-wp.local/?p=394
+09:23:26	Warning: 	File has moved from imagine-wp.local/?p=394 to http://imagine-wp.local/members/miranda/
+09:23:27	Warning: 	Moved Permanently for imagine-wp.local/?p=400
+09:23:27	Warning: 	File has moved from imagine-wp.local/?p=400 to http://imagine-wp.local/members/montes/
+09:23:27	Warning: 	Moved Permanently for imagine-wp.local/?p=406
+09:23:27	Warning: 	File has moved from imagine-wp.local/?p=406 to http://imagine-wp.local/members/perez-fernandez/
+09:23:27	Warning: 	Moved Permanently for imagine-wp.local/?p=408
+09:23:27	Warning: 	File has moved from imagine-wp.local/?p=408 to http://imagine-wp.local/members/salamanca/
+09:23:30	Warning: 	Retry after error -4 (No data (connection closed)) at link imagine-wp.local/wp-admin/images/w-logo-blue.png?ver=20131202 (from imagine-wp.local/wp-admin/load-styles.php?c=1&dir=ltr&load%5Bchunk_0%5D=dashicons,buttons,forms,l10n,login&ver=6.8.3)
+09:23:30	Warning: 	Retry after error -4 (No data (connection closed)) at link imagine-wp.local/wp-admin/images/w-logo-blue.png?ver=20131202 (from imagine-wp.local/wp-admin/load-styles.php?c=1&dir=ltr&load%5Bchunk_0%5D=dashicons,buttons,forms,l10n,login&ver=6.8.3)
 
-HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 15 seconds : 202 links scanned, 163 files written (132199329 bytes overall), 98 files updated [19426197 bytes received at 24435 bytes/sec], 1907401 bytes transferred using HTTP compression in 88 files, ratio 21%, 8.4 requests per connection
-(5 errors, 54 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 36 seconds : 214 links scanned, 180 files written (137766080 bytes overall), 119 files updated [6539972 bytes received at 23695 bytes/sec], 3373573 bytes transferred using HTTP compression in 117 files, ratio 27%, 2.9 requests per connection
+(5 errors, 52 warnings, 0 messages)
